@@ -30,6 +30,9 @@ My name is Mustafa Zaki and I'm an Egyptian Front-End developer, working at [IN3
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafazke&repo=millionaire&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
+## <img align="center" src="https://raw.githubusercontent.com/dailydotdev/daily/master/assets/logo.png" width="32" height="32" /> Daily.dev Stats
+<a href="https://app.daily.dev/mostafazke"><img src="https://api.daily.dev/devcards/5eaad92880364d3ea03ad0c2653d08f8.png?r=3ac" width="400" alt="Mostafa Zaki's Dev Card"/></a>
+
 <!-- icons without padding -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (Twitter)
