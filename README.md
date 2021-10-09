@@ -31,7 +31,7 @@ My name is Mustafa Zaki and I'm an Egyptian Front-End developer, working at [IN3
 </a>    
 
 ## <img align="center" src="https://raw.githubusercontent.com/dailydotdev/daily/master/assets/logo.png" width="32" height="32" /> Daily.dev Stats
-<a href="https://app.daily.dev/mostafazke"><img src="https://api.daily.dev/devcards/5eaad92880364d3ea03ad0c2653d08f8.png?r=3ac" width="400" alt="Mostafa Zaki's Dev Card"/></a>
+<a href="https://app.daily.dev/mostafazke"><img src="https://api.daily.dev/devcards/5eaad92880364d3ea03ad0c2653d08f8.png?r=yve" width="400" alt="Mostafa Zaki's Dev Card"/></a>
 
 <!-- icons without padding -->
 
