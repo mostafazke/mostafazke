@@ -8,12 +8,9 @@ My name is Mustafa Zaki an Egyptian Front-End developer, working at <a href="htt
 
 <p><a href="https://mostafazke.github.io/"><img src="https://img.shields.io/badge/mostafazke.me-4285F4?style=flat-square;&labelColor=4E69C8;&logo=Google-chrome&logoColor=white" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/mostafazke/"><img src="https://img.shields.io/badge/-@mostafazke-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mostafazke/" alt="LinkedIn Badge"></a> <a href="https://dev.to/mostafazke"><img src="https://img.shields.io/badge/-@mostafazke-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/mostafazke" alt="DevTo Badge"></a> <a href="https://twitter.com/mostafazke"><img src="https://img.shields.io/badge/-@mostafazke-1DA1F2?style=flat-square&amp;&logoColor=white&amp;logo=Twitter&amp" alt="Twitter Badge"></a></p>
 
-[![StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/9393333)](https://stackoverflow.com/users/9393333/moustafa-zaki)
-
 ![](https://gitwar.herokuapp.com/badge?username=mostafazke&color=brightgreen)
 
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<a href="https://stackoverflow.com/users/9393333/mostafa-zaki"><img src="https://stackoverflow.com/users/flair/9393333.png?theme=dark" width="208" height="58" alt="profile for Mostafa Zaki at Stack Overflow" title="profile for Mostafa Zaki at Stack Overflow"></a>
 
 ## 🔧 My Tech Stack
 <p align="left">
