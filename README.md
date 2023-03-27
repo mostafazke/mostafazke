@@ -2,7 +2,7 @@
 # ✨ Hello, folks! ✨
 <img src='./header.png' title="header">
 
-My name is Mustafa Zaki an Egyptian Front-End developer, working at <a href="https://in3.cloud"><img src="https://secureservercdn.net/160.153.138.53/xvq.23f.myftpupload.com/wp-content/uploads/2017/08/In3-Final-1-small-100px.png" height="12"></a>
+My name is Mustafa Zaki an Egyptian Front-End developer, working at <a href="https://www.epam.com/"><img src="https://www.epam.com/content/dam/epam/2023/epam.svg" height="12"></a>
 
 
 
